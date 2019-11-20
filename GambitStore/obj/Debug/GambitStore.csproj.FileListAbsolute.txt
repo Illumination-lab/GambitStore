@@ -1,0 +1,118 @@
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\GambitStore.exe.config
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\GambitStore.exe
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\GambitStore.pdb
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.GambitStore.resources
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.LoginScreen.resources
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.Properties.Resources.resources
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.GenerateResource.cache
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CoreCompileInputs.cache
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.exe
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.pdb
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CopyComplete
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.RegistrationForm.resources
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csprojAssemblyReference.cache
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\GambitStore.exe.config
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\GambitStore.exe
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\GambitStore.pdb
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\EntityFramework.dll
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\EntityFramework.xml
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.csprojAssemblyReference.cache
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.GambitStore.resources
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.LoginScreen.resources
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.Properties.Resources.resources
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.RegistrationForm.resources
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.GenerateResource.cache
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CoreCompileInputs.cache
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CopyComplete
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.exe
+C:\Users\MeisterEnot\Desktop\GambitStore\GambitStore\obj\Debug\GambitStore.pdb
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MetroFramework.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySql.Data.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\Google.Protobuf.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySql.Data.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.exe.config
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\Database1.mdf
+C:\Users\MeisterEnot\source\repos\GambitStore\GambitStore\bin\Debug\Database1_log.ldf
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\Database1.mdf
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\Database1_log.ldf
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\GambitStore.exe.config
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\GambitStore.exe
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\GambitStore.pdb
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\MetroFramework.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\Google.Protobuf.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\MySql.Data.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Users\volab\source\repos\GambitStore\GambitStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csprojAssemblyReference.cache
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.exe.config
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.GambitStore.resources
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.LoginScreen.resources
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.Properties.Resources.resources
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.RegistrationForm.resources
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.GenerateResource.cache
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CoreCompileInputs.cache
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CopyComplete
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.exe
+C:\Users\volab\source\repos\GambitStore\GambitStore\obj\Debug\GambitStore.pdb
+C:\Program Files\GambitStore\GambitStore\bin\Debug\Database1.mdf
+C:\Program Files\GambitStore\GambitStore\bin\Debug\Database1_log.ldf
+C:\Program Files\GambitStore\GambitStore\bin\Debug\GambitStore.exe.config
+C:\Program Files\GambitStore\GambitStore\bin\Debug\GambitStore.exe
+C:\Program Files\GambitStore\GambitStore\bin\Debug\GambitStore.pdb
+C:\Program Files\GambitStore\GambitStore\bin\Debug\EntityFramework.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\MetroFramework.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\MetroFramework.Fonts.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\System.Data.SqlServerCe.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\Google.Protobuf.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\BouncyCastle.Crypto.dll
+C:\Program Files\GambitStore\GambitStore\bin\Debug\EntityFramework.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\MySql.Data.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+C:\Program Files\GambitStore\GambitStore\bin\Debug\ru\EntityFramework.resources.dll
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.csprojAssemblyReference.cache
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.exe.config
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.GambitStore.resources
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.LoginScreen.resources
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.Properties.Resources.resources
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.RegistrationForm.resources
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.GenerateResource.cache
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CoreCompileInputs.cache
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.csproj.CopyComplete
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.exe
+C:\Program Files\GambitStore\GambitStore\obj\Debug\GambitStore.pdb

@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{95277161-EE5E-4027-982A-553E55F02504}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GambitStore</RootNamespace>
+    <AssemblyName>GambitStore</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServerCompact, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.SqlServerCompact.6.2.0\lib\net45\EntityFramework.SqlServerCompact.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.RunTime.1.2.0.3\lib\net40-Client\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Design.1.2.0.3\lib\net40\MetroFramework.Design.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.2.0.3, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroFramework.Fonts.1.2.0.3\lib\net40\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.EntityFramework, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySQL.Data.EntityFrameworkCore.Design, Version=8.0.16.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Compact.4.0.8876.1\lib\net40\System.Data.SqlServerCe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Database1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GambitStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GambitStore.Designer.cs">
+      <DependentUpon>GambitStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreen.Designer.cs">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrationForm.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RegistrationForm.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrationFormcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrationFormcs.Designer.cs">
+      <DependentUpon>RegistrationFormcs.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="GambitStore.resx">
+      <DependentUpon>GambitStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreen.resx">
+      <DependentUpon>LoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrationFormcs.resx">
+      <DependentUpon>RegistrationFormcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Database1DataSet.xsc">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Database1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Database1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Database1DataSet.xss">
+      <DependentUpon>Database1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seukco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxresdefault.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Database1.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database1_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Database1.mdf</DependentUpon>
+    </Content>
+    <Content Include="MetroFramework.txt" />
+    <Content Include="RegistrationForm.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>RegistrationForm.Context.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\play.png" />
+    <None Include="Resources\fon.jpg" />
+    <None Include="Resources\exit2.0.png" />
+    <None Include="Resources\witchericon.png" />
+    <None Include="Resources\rainbowicon.png" />
+    <None Include="Resources\metroicon.png" />
+    <None Include="Resources\gta5icon.png" />
+    <None Include="Resources\doomicon.png" />
+    <None Include="Resources\RainbowScreen\rbsscr4.jpg" />
+    <None Include="Resources\RainbowScreen\rbsscr3.jpg" />
+    <None Include="Resources\RainbowScreen\rbsscr2.jpg" />
+    <None Include="Resources\RainbowScreen\rbsscr1.jpg" />
+    <None Include="Resources\rbsscr4.jpg" />
+    <None Include="Resources\rbsscr3.jpg" />
+    <None Include="Resources\rbsscr2.jpg" />
+    <None Include="Resources\rbsscr1.jpg" />
+    <None Include="Resources\DoomScreen\doomscr4.jpg" />
+    <None Include="Resources\DoomScreen\doomscr3.jpg" />
+    <None Include="Resources\DoomScreen\doomscr2.jpg" />
+    <None Include="Resources\DoomScreen\doomscr1.jpg" />
+    <None Include="Resources\doomscr4.jpg" />
+    <None Include="Resources\doomscr3.jpg" />
+    <None Include="Resources\doomscr2.jpg" />
+    <None Include="Resources\doomscr1.jpg" />
+    <None Include="Resources\WitcherScreen\witcherscr4.jpg" />
+    <None Include="Resources\WitcherScreen\witcherscr3.jpg" />
+    <None Include="Resources\WitcherScreen\witcherscr2.jpg" />
+    <None Include="Resources\WitcherScreen\witcherscr1.jpg" />
+    <None Include="Resources\witcherscr4.jpg" />
+    <None Include="Resources\witcherscr3.jpg" />
+    <None Include="Resources\witcherscr2.jpg" />
+    <None Include="Resources\witcherscr1.jpg" />
+    <None Include="Resources\GTAScreen\gtascr4.jpg" />
+    <None Include="Resources\GTAScreen\gtascr3.jpg" />
+    <None Include="Resources\GTAScreen\gtascr2.jpg" />
+    <None Include="Resources\GTAScreen\gtascr1.jpg" />
+    <None Include="Resources\gtascr4.jpg" />
+    <None Include="Resources\gtascr3.jpg" />
+    <None Include="Resources\gtascr2.jpg" />
+    <None Include="Resources\gtascr1.jpg" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\DotaScreen\dotascr4.jpg" />
+    <None Include="Resources\DotaScreen\dotascr3.jpg" />
+    <None Include="Resources\DotaScreen\dotascr2.jpg" />
+    <None Include="Resources\DotaScreen\dotascr1.jpg" />
+    <None Include="Resources\dotascr4.jpg" />
+    <None Include="Resources\dotascr3.jpg" />
+    <None Include="Resources\dotascr2.jpg" />
+    <None Include="Resources\dotascr1.jpg" />
+    <None Include="Resources\metroscr5.jpg" />
+    <None Include="Resources\metroscr4.jpg" />
+    <None Include="Resources\metroscr3.jpg" />
+    <None Include="Resources\metroscr2.jpg" />
+    <None Include="Resources\metroscr1.jpg" />
+    <None Include="Resources\MetroScreen\metroscr5.jpg" />
+    <None Include="Resources\MetroScreen\metroscr4.jpg" />
+    <None Include="Resources\MetroScreen\metroscr3.jpg" />
+    <None Include="Resources\MetroScreen\metroscr2.jpg" />
+    <None Include="Resources\MetroScreen\metroscr1.jpg" />
+    <None Include="Resources\rainbow.jpg" />
+    <None Include="Resources\doom.jpg" />
+    <None Include="Resources\witcher3.1.jpg" />
+    <None Include="Resources\witcher3.png" />
+    <None Include="Resources\metroexodus.jpg" />
+    <None Include="Resources\gtav.jpg" />
+    <None Include="Resources\yabr.png" />
+    <None Include="Resources\hm2.png" />
+    <None Include="Resources\dotaicon.png" />
+    <None Include="Resources\dota2.jpg" />
+    <None Include="Resources\DxlEbD5X4AA9xDF.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    if not exist "$(TargetDir)x86" md "$(TargetDir)x86"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\x86\*.*" "$(TargetDir)x86"
+    if not exist "$(TargetDir)amd64" md "$(TargetDir)amd64"
+    xcopy /s /y "$(SolutionDir)packages\Microsoft.SqlServer.Compact.4.0.8876.1\NativeBinaries\amd64\*.*" "$(TargetDir)amd64"</PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GambitStore", "GambitStore\GambitStore.csproj", "{95277161-EE5E-4027-982A-553E55F02504}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95277161-EE5E-4027-982A-553E55F02504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95277161-EE5E-4027-982A-553E55F02504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95277161-EE5E-4027-982A-553E55F02504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95277161-EE5E-4027-982A-553E55F02504}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43BCC3D-32ED-4AE1-A012-A47C3FD6195A}
+	EndGlobalSection
+EndGlobal
